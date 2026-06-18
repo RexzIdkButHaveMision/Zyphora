@@ -1,0 +1,25 @@
+
+return {
+
+    {
+        Name = "Become A Brainrot",
+        PlaceId = 99255447043899,
+        Icon = 10734950309,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Become"
+    },
+
+    {
+        Name = "soon",
+        PlaceId = 1,
+        Icon = 10734950309,
+        Script = ""
+    },
+
+    {
+        Name = "soon",
+        PlaceId = 1,
+        Icon = 10747373151,
+        Script = ""
+    }
+
+}
