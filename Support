@@ -20,6 +20,14 @@ return {
         PlaceId = 105633123928294,
         Icon = 10747373151,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Inside"
+    },
+
+    
+    {
+        Name = "Lucky Block Rush",
+        PlaceId = 84575720768520,
+        Icon = 10734950309,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Rush"
     }
 
 }
