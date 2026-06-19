@@ -28,6 +28,14 @@ return {
         PlaceId = 84575720768520,
         Icon = 10734950309,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Rush"
+    },
+
+     {
+        Name = "Escape Sammy Apa Itu",
+        PlaceId = 75396019934093,
+        Icon = 10734950309,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Rush"
     }
+
 
 }
