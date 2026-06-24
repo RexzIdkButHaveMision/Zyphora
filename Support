@@ -42,7 +42,15 @@ return {
         PlaceId = 75396019934093,
         Icon = 10734950309,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Sammy"
+    },
+
+   {
+        Name = "Push Lucky Block",
+        PlaceId = 111421220771064,
+        Icon = 10734950309,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Push%20Lucky%20Block"
     }
+
 
 
 }
