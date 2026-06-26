@@ -4,28 +4,28 @@ return {
     {
         Name = "Become A Brainrot",
         PlaceId = 99255447043899,
-        Icon = 10734950309,
+        Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Become"
     },
 
     {
         Name = "Punch Lucky Block",
         PlaceId = 81886892648876,
-        Icon = 10734950309,
+        Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Punch"
     },
 
     {
         Name = "Inside Brainrot Head",
         PlaceId = 105633123928294,
-        Icon = 10747373151,
+        Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Inside"
     },
 
     {
         Name = "Inside Br world 2",
         PlaceId = 137899549303476,
-        Icon = 10734950309,
+        Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Inside"
     },
 
@@ -33,24 +33,30 @@ return {
     {
         Name = "Lucky Block Rush",
         PlaceId = 84575720768520,
-        Icon = 10734950309,
+        Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Rush"
     },
 
      {
         Name = "Escape Sammy Apa Itu",
         PlaceId = 75396019934093,
-        Icon = 10734950309,
+        Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Sammy"
     },
 
    {
         Name = "Push Lucky Block",
         PlaceId = 111421220771064,
-        Icon = 10734950309,
+        Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Push%20Lucky%20Block"
-    }
+    },
 
+     {
+        Name = "Catch And Tane",
+        PlaceId = 96645548064314,
+        Icon = 98083086936965,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Catch"
+    }
 
 
 }
