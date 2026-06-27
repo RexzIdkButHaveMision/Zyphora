@@ -56,6 +56,13 @@ return {
         PlaceId = 96645548064314,
         Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Catch"
+    },
+
+    {
+        Name = "Climb And Jump",
+        PlaceId = 123921593837160,
+        Icon = 98083086936965,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Climb"
     }
 
 
