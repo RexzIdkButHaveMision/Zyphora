@@ -63,7 +63,15 @@ return {
         PlaceId = 123921593837160,
         Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Climb"
+    },
+
+     {
+        Name = "Sell Lemone",
+        PlaceId = 79268393072444,
+        Icon = 98083086936965,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Sell"
     }
+
 
 
 }
