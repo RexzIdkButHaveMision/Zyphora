@@ -70,6 +70,13 @@ return {
         PlaceId = 79268393072444,
         Icon = 98083086936965,
         Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Sell"
+    },
+
+    {
+        Name = "Lick A Brainrot",
+        PlaceId = 112500097711893,
+        Icon = 98083086936965,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Lick"
     }
 
 
