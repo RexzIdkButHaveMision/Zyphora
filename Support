@@ -80,5 +80,13 @@ return {
     }
 
 
+    {
+        Name = "Paper Plane For Brainrot",
+        PlaceId = 110373292461174,
+        Icon = 98083086936965,
+        Script = "https://raw.githubusercontent.com/RexzIdkButHaveMision/Support-/refs/heads/main/Plane"
+    }
+
+
 
 }
